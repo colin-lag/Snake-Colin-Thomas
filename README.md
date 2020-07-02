@@ -16,7 +16,7 @@ Programmed in Python 3.6 with MySQL database for highscore.
 -Random v9.6<br>
 -Mysql-connector v2.2.9
 
-# License
+## License
 
 
 
