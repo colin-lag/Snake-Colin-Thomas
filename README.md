@@ -16,9 +16,25 @@ Programmed in Python 3.6 with MySQL database for highscore.
 -Random v9.6<br>
 -Mysql-connector v2.2.9
 
+## Installation 
+
+To import the highscore database, simply create a new database in your MySQL server and use the following command: 
+
+```shell
+$ mysql -u username -p new_database < highscore.sql
+```
+
+Then add your username and password to the Python file:
+
+````python
+    cnx = mysql.connector.connect(
+        user='username', password='password', host='localhost',
+        database='highscore')
+````
+
 ## License
 
-
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 -Snake Head : CC BY 3.0, https://piq.codeus.net/picture/293531/Snake-head <br>
 -Snake Body : Modified from Shake Head (authorized by license)<br>
