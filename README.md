@@ -6,7 +6,7 @@ Created by Colin Laganier and Thomas Le Menestrel.
 
 Inspired by the famous "Snake" game. In this version, the user controls the snake with the directional arrows in a window. The snake can eat two different versions of fruits of different value, as well as bombs that reverse the controls. The snake grows in length every time it eats. When the snake hits the walls or itself, the user looses and can add their highscore to the highscore table.
 
-Programmed in Python 3.6 with MySQL database for highscore. 
+Coded in Python 3.6 with MySQL database for highscore. 
 
 ## Libraries
 
