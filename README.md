@@ -1,5 +1,7 @@
 # Python 8-bit Snake Game
 
+![Menu Screenshot](https://github.com/colin-lag/8-bit-Snake/blob/master/menu.png?raw=true)
+
 ## Description 
 
 Created by Colin Laganier and Thomas Le Menestrel.
