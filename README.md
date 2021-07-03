@@ -1,6 +1,6 @@
 # Python 8-bit Snake Game
 
-<img src="https://github.com/colin-lag/8-bit-Snake/blob/master/Screenshots/menu.png" alt="Menu Screenshot" width="60%">
+<img src="/Screenshots/menu.png" alt="Menu Screenshot" width="60%">
 
 ## Description 
 
